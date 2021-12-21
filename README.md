@@ -12,4 +12,4 @@ Run docker compose
 docker-compose up --build 
 ```
 
-This repository is adressed to my [medium article](https://medium.com/p/ed8cf8f16bab) 
+This repository is adressed to [medium article](https://medium.com/p/ed8cf8f16bab) 
